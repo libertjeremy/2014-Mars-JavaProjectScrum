@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/163/moa/tags/v4.0.0/src/tests/XML
+END
+TestRegles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/163/moa/tags/v4.0.0/src/tests/XML/TestRegles.xml
+END
+UnFichierDeTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/163/moa/tags/v4.0.0/src/tests/XML/UnFichierDeTest.xml
+END
+TestCotisations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/163/moa/tags/v4.0.0/src/tests/XML/TestCotisations.xml
+END
+Cotisation50.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/163/moa/tags/v4.0.0/src/tests/XML/Cotisation50.xml
+END
+TestCotisations.out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/163/moa/tags/v4.0.0/src/tests/XML/TestCotisations.out.xml
+END
+TestReglesAappliquer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/163/moa/tags/v4.0.0/src/tests/XML/TestReglesAappliquer.xml
+END

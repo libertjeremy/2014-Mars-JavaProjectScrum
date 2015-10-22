@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cotisations>
+
+	<cotisation>
+		<libelle>Assurance maladie</libelle>
+		<taux>0.0075</taux>
+		<statut></statut>
+	</cotisation>
+	<cotisation>
+		<libelle>Assurance vieillesse déplafonnée</libelle>
+		<taux>0.0025</taux>
+		<statut></statut>
+	</cotisation>
+	<cotisation>
+		<libelle>Contribution sociale généralisée</libelle>
+		<taux>0.0750</taux>
+		<statut></statut>
+ 	</cotisation>
+	<cotisation>
+		<libelle>CRDS</libelle>
+		<taux>0.005</taux>
+		<statut></statut>
+	</cotisation>
+	<cotisation>
+		<libelle>Assurance vieillesse plafonnée</libelle>
+		<taux>0.068</taux>
+		<statut></statut>
+	</cotisation>
+	<cotisation>
+		<libelle>Chômage</libelle>
+		<taux>0.024</taux>
+		<statut></statut>
+	</cotisation>
+    
+
+	<cotisation>
+		<libelle>Arrco TA</libelle>
+		<taux>0.0305</taux>
+		<statut>Cadre</statut>
+	</cotisation>
+	<cotisation>
+		<libelle>AGFF TA</libelle>
+		<taux>0.0080</taux>
+		<statut>Cadre</statut>
+	</cotisation>
+	<cotisation>
+		<libelle>Agirc TB</libelle>
+		<taux>0.0775</taux>
+		<statut>Cadre</statut>
+	</cotisation>
+	<cotisation>
+		<libelle>AGFF TB</libelle>
+		<taux>0.0090</taux>
+		<statut>Cadre</statut>
+	</cotisation>
+	<cotisation>
+		<libelle>Apec</libelle>
+		<taux>0.00024</taux>
+		<statut>Cadre</statut>
+	</cotisation>
+	<cotisation>
+		<libelle>CET</libelle>
+		<taux>0.0013</taux>
+		<statut>Cadre</statut>
+	</cotisation>
+
+
+	<cotisation>
+		<libelle>Arrco T1</libelle>
+		<taux>0.0305</taux>
+		<statut>Non cadre</statut>
+	</cotisation>
+	<cotisation>
+		<libelle>AGFF T1</libelle>
+		<taux>0.008</taux>
+		<statut>Non cadre</statut>
+	</cotisation>
+	<cotisation>
+		<libelle>Arrco T2</libelle>
+		<taux>0.0805</taux>
+		<statut>Non cadre</statut>
+	</cotisation>
+	<cotisation>
+		<libelle>AGFF T2</libelle>
+		<taux>0.0090</taux>
+		<statut>Non cadre</statut>
+	</cotisation>
+	
+</cotisations>

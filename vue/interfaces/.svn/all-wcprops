@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/163/moa/tags/v4.0.0/src/vue/interfaces
+END
+IFenetrePrincipale.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/163/moa/tags/v4.0.0/src/vue/interfaces/IFenetrePrincipale.java
+END
+IPanneauSalaire.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/163/moa/tags/v4.0.0/src/vue/interfaces/IPanneauSalaire.java
+END
+IPanneauRegles.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/163/moa/tags/v4.0.0/src/vue/interfaces/IPanneauRegles.java
+END
+IPanneauCotisations.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/163/moa/tags/v4.0.0/src/vue/interfaces/IPanneauCotisations.java
+END

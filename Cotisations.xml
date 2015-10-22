@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cotisations>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<!-- Début Cadres -->
+	
+	
+
+	
+
+	<cotisation>
+		<libelle>Agirc TB</libelle>
+		<taux>7.75</taux>
+	</cotisation>
+
+	<cotisation>
+		<libelle>AGFF TB</libelle>
+		<taux>0.9</taux>
+	</cotisation>
+
+	<cotisation>
+		<libelle>Apec</libelle>
+		<taux>0.024</taux>
+	</cotisation>
+
+	
+	
+	
+
+	
+
+	
+
+	<cotisation>
+		<libelle>AGFF T2</libelle>
+		<taux>0.9</taux>
+	</cotisation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<cotisation>
+<libelle>Arrco T1</libelle>
+<taux>3.05</taux>
+</cotisation>
+<cotisation>
+<libelle>AGFF TA</libelle>
+<taux>0.8</taux>
+</cotisation>
+
+<cotisation>
+<libelle>Contribution sociale </libelle>
+<taux>7.5</taux>
+</cotisation>
+<cotisation>
+<libelle>Assurance maladie</libelle>
+<taux>0.75</taux>
+</cotisation>
+
+
+<cotisation>
+<libelle>AGFF T1</libelle>
+<taux>0.8</taux>
+</cotisation>
+<cotisation>
+<libelle>Arrco T2</libelle>
+<taux>8.05</taux>
+</cotisation>
+<cotisation>
+<libelle>CET</libelle>
+<taux>0.13</taux>
+</cotisation>
+
+
+
+<cotisation>
+<libelle>CRDS</libelle>
+<taux>0.5</taux>
+</cotisation>
+<cotisation>
+<libelle>Arrco TA</libelle>
+<taux>3.05</taux>
+</cotisation>
+
+
+
+
+
+<cotisation>
+<libelle>Chômage</libelle>
+<taux>2.4</taux>
+</cotisation>
+<cotisation>
+<libelle>Assurance vieillesse plafonnéee</libelle>
+<taux>6.8</taux>
+</cotisation>
+<cotisation>
+<libelle>Assurance vieillesse déplafonné</libelle>
+<taux>0.25</taux>
+</cotisation>
+</cotisations>

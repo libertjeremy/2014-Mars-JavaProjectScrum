@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<regles>
+	
+	<!-- P = 3129 -->
+	
+	
+		
+	
+		
+	<regle>
+		
+		<condition>toujours</condition>
+		<cotisation>Contribution sociale généralisée</cotisation>
+		
+	</regle>
+		
+	
+		
+	
+
+	
+	
+	
+
+	
+		
+	
+		
+	<regle>
+		
+		<condition>brut &gt; 3129 AND brut &lt; 12516 AND statut="cadre"</condition>
+		<cotisation>Agirc TB</cotisation>
+		
+	</regle>
+		
+	
+		
+	<regle>
+		
+		<condition>brut &lt; 12516 AND statut="cadre"</condition>
+		<cotisation>Apec</cotisation>
+		
+	</regle>
+		
+	<regle>
+		
+		<condition>brut &gt; 12516 AND brut &lt; 25032 AND statut="cadre"</condition>
+		<cotisation>Agirc TC</cotisation>
+		
+	</regle>
+		
+	
+	
+	
+		
+	
+		
+	
+		
+	
+		
+	<regle>
+		
+		<condition>brut &gt; 3129 AND brut &lt; 12516 AND statut="noncadre"</condition>
+		<cotisation>AGFF T2</cotisation>
+		
+	</regle>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<regle>
+<condition>brut &lt; 3129 AND statut="noncadre"</condition>
+<cotisation>Arrco T1</cotisation>
+</regle>
+<regle>
+<condition>brut &lt; 3129 AND statut="cadre"</condition>
+<cotisation>AGFF TA</cotisation>
+</regle>
+
+
+
+
+<regle>
+<condition>brut &lt; 25032 AND statut="cadre"</condition>
+<cotisation>CET</cotisation>
+</regle>
+
+
+
+
+
+
+
+
+<regle>
+<condition>toujours</condition>
+<cotisation>CRDS</cotisation>
+</regle>
+<regle>
+<condition>toujours</condition>
+<cotisation>Assurance maladie</cotisation>
+</regle>
+
+
+<regle>
+<condition>brut &gt; 3129 AND brut &lt; 12516 AND statut="noncadre"</condition>
+<cotisation>Arrco T2</cotisation>
+</regle>
+
+<regle>
+<condition>brut &lt; 3129 AND statut="cadre"</condition>
+<cotisation>Arrco TA</cotisation>
+</regle>
+<regle>
+<condition>brut &lt; 3129 AND statut="non cadre"</condition>
+<cotisation>AGFF T1</cotisation>
+</regle>
+
+
+
+
+<regle>
+<condition>brut &lt; 12516 AND statut="cadre"</condition>
+<cotisation>Chômage</cotisation>
+</regle>
+<regle>
+<condition>toujours</condition>
+<cotisation>Assurance vieillesse déplafonné</cotisation>
+</regle>
+<regle>
+<condition>brut &gt; 3129 AND brut &lt; 12516 AND statut="cadre"</condition>
+<cotisation>AGFF TB</cotisation>
+</regle>
+</regles>

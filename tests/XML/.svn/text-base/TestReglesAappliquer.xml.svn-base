@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<regles>
+	<regle>
+		<condition>brut &gt; 999 AND brut &lt; 1001 AND statut="cadre"</condition>
+		<cotisation>Cotisation50Pourcent</cotisation>
+	</regle>
+</regles>

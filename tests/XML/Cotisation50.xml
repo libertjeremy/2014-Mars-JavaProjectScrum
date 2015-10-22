@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cotisations>
+
+<cotisation>
+<libelle>Cotisation50Pourcent</libelle>
+<taux>50</taux>
+<statut>Cadre</statut>
+</cotisation>
+
+</cotisations>
